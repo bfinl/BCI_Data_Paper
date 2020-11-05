@@ -1,7 +1,7 @@
 # BCI_Data_Paper
 Code For: Continuous Sensorimotor Rhythm Based Brain Computer Interface Learning in a Large Population
 
-This code was used in the data descriptor paper: Stieger and He : Continuous Sensorimotor Rhythm Based Brain Computer Interface Learning in a Large Population, 2020
+This code was used in the data descriptor paper: "Stieger and He : Continuous Sensorimotor Rhythm Based Brain Computer Interface Learning in a Large Population, 2020".
 Requred functions and packages:
 
    1. FieldTrip-20190419 : https://www.fieldtriptoolbox.org/download/ 
