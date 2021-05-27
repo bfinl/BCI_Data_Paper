@@ -2,6 +2,8 @@
 Code For: Continuous Sensorimotor Rhythm Based Brain Computer Interface Learning in a Large Population
 
 This code was used in the data descriptor paper: "Stieger, Engel, and He : Continuous Sensorimotor Rhythm Based Brain Computer Interface Learning in a Large Population, 2020".
+https://doi.org/10.1038/s41597-021-00883-1
+
 Requred functions and packages:
 
    1. FieldTrip-20190419 : https://www.fieldtriptoolbox.org/download/ 
